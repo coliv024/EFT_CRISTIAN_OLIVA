@@ -1,5 +1,5 @@
 estudiantes = []   # Lista vacía que contendrá los diccionarios de cada estudiante
-# FUNCIONES DE VALIDACIÓN CAMBIO 2
+# FUNCIONES DE VALIDACIÓN CAMBIO 3
 def validar_nombre(nombre):
     """
     Valida que el nombre no esté vacío ni sea solo espacios en blanco.
